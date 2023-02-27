@@ -1,0 +1,6 @@
+name: McAgario
+version: '${version}'
+main: me.gorenjec.mcagario.McAgario
+api-version: 1.19
+authors: [ Vihara ]
+description: The one and only gamemode we all love! Agar.io

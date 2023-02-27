@@ -1,0 +1,12 @@
+maps:
+  example:
+    map-name: "FFA1"
+    x-min: -60
+    x-max: 60
+    z-min: -60
+    z-max: 60
+    y-level: 50
+    world: "world"
+    map-material: "QUARTZ_BLOCK"
+    mass-per-food: 5
+    default-cell-size: 10
